@@ -47,5 +47,9 @@ else:
 
 ---
 
+**The Kernel** is subject to itself. It's self-referencing. By definition it **can not** be `right`. Just not `wrong` yet.
+
+---
+
 **Unhinged Principle:** "Existence is not a property of the object; it is a property of the constraint field."
 

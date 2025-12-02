@@ -2,6 +2,8 @@
 > The generalized elimination principle for chaotic systems
 >
 > "It implies that there is a Continuation Strategy that is formed, to be !wrong according to local constraints."
+>
+> Revision Date: 2025-12-02
 
 ---
 
@@ -9,7 +11,7 @@
 
 ### 1. Wrong
 Violation of **locally self-referencing constraints**.
-"Wrong" is non-transferable. What survives in a vacuum (Neutron decay) is eliminated in a nucleus (Stability).
+"Wrong" is resolved immediatly, if there is a !wrong continuation. Every process has to adhere to all interacting constraints and survivors, non-transferable.
 
 ### 2. Chaos
 The **Eliminator**.
